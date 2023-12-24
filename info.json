@@ -1,0 +1,9 @@
+{
+    "name": "BlueprintConverter",
+    "version": "0.1.0",
+    "title": "Blueprint converter",
+    "author": "huangkai0503",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Convert blueprint to constant combinators containing the raw bluprint's cost. Also works for blueprint books. \nUsage: drop blueprints onto the ground and use the Blueprint Converter on the tool bar to select them. Alt select to quickly create consatant combinators containing the cost of all selected buildings."
+}
